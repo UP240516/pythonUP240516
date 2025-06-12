@@ -1,3 +1,4 @@
+#Dia 1/30 de programacion en python
 import math
 # Números
 entero = 10                

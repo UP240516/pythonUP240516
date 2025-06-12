@@ -1,3 +1,4 @@
+#Dia 1/30 de programacion en python
 #2
 print(3+4)
 print(3-4)
