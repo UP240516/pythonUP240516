@@ -66,3 +66,7 @@ print(f"{first_name_input} {last_name_input} de {country}, tiene {age_input} añ
 
 # Palabras reservadas de Python
 help('keywords')
+
+
+
+    
