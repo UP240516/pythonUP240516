@@ -48,3 +48,4 @@ print("Second half:", second_half)
 c1, c2, c3, *scandic_countries = countries
 print("First 3:", c1, c2, c3)
 print("Scandic countries:", scandic_countries)
+
